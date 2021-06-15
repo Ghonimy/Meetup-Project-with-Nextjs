@@ -17,3 +17,5 @@ npm run dev
 npm run build
 ```
 
+[View the App Live](https://ghonemy-meetups.vercel.app)
+
